@@ -4,6 +4,7 @@
 
 The Library Management System is a web application designed to simplify book browsing, borrowing, reading, and library account management. It provides users with an organized platform to explore books, manage their favorite lists, request book loans, and track late fees.
 
+
 ✨ Features:
 
 🔍 Book Search and Filtering — Search for books by title, author, or keywords and filter them by category.
@@ -84,6 +85,7 @@ The payment button is enabled only when the user has an eligible outstanding fin
 Security note: Actual card payments should be processed through a secure, PCI DSS-compliant payment provider. Card details and CVV must not be stored directly by the application.
 
 ❓ Help Center:
+
 The Help Center provides guidance on browsing books, managing favorites, borrowing books, reading borrowed books, and understanding late fees.
 
 🛠️ Technologies Used:
