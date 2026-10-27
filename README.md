@@ -5,6 +5,7 @@
 The Library Management System is a web application designed to simplify book browsing, borrowing, reading, and library account management. It provides users with an organized platform to explore books, manage their favorite lists, request book loans, and track late fees.
 
 ✨ Features
+
 🔍 Book Search and Filtering — Search for books by title, author, or keywords and filter them by category.
 ⭐ Favorite Books — Add or remove books from your personal favorites list.
 📚 Book Borrowing — Submit borrowing requests and wait for administrator approval.
