@@ -76,7 +76,6 @@ Examples:
 
 Note: These examples assume that the fee is €5 for each day beyond the initial 7-day borrowing period.
 
-
 💳 Card Payment Interface:
 
 The application provides a payment form for users with active fines. The interface includes fields for the cardholder's name, card number, expiration date, and CVV.
