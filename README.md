@@ -24,6 +24,7 @@ The Library Management System is a web application designed to simplify book bro
 
 📚 Borrowing Process:
 
+
 Select a book and click "Request a Loan".
 
 Wait for administrator approval, which typically takes 30–60 minutes according to the application's guidelines.
