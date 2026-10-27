@@ -20,11 +20,9 @@ The Library Management System is a web application designed to simplify book bro
 
 💳 Payment Interface — Provides a card payment form for eligible outstanding fines.
 
-❓ Help Center — Provides instructions and guidance on using the library system.
-
+❓ Help Center — Provides instructions and guidance on using the library system.<br>
 
 📚 Borrowing Process:
-
 
 Select a book and click "Request a Loan".
 
