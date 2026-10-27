@@ -33,6 +33,7 @@ Once approved, click "Confirm Loan".
 Click "Read Book" to access the borrowed book.
 
 ⏳ Late Fee Policy
+
 The system applies the following late fee rules:
 
 Days 1–7: Free borrowing period (€0).
