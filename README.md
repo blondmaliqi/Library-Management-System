@@ -47,12 +47,8 @@ The Help Center provides guidance on browsing books, managing favorites, borrowi
 </p>
 
 HTML5 — Structures the web pages.
-
 CSS3 — Styles the interface and improves the visual design.
-
 JavaScript — Adds interactive functionality to the application.
-
 PHP — Handles server-side logic and communication with the database.
-
 MySQL — Stores and manages books, users, borrowing records, and other application data.
 
