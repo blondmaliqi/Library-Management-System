@@ -42,18 +42,27 @@ The Help Center provides guidance on browsing books, managing favorites, borrowi
 
 🛠️ Technologies Used
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" alt="HTML, CSS, JavaScript, PHP and MySQL" />
-</p>
-
-HTML5 — Structures the web pages.
-
-CSS3 — Styles the interface and improves the visual design.
-
-JavaScript — Adds interactive functionality to the application.
-
-PHP — Handles server-side logic and communication with the database.
-
-MySQL — Stores and manages books, users, borrowing records, and other application data.
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5"></td>
+<td><strong>HTML5</strong> — Structures the web pages.</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3"></td>
+<td><strong>CSS3</strong> — Styles the interface and improves the visual design.</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"></td>
+<td><strong>JavaScript</strong> — Adds interactive functionality to the application.</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP"></td>
+<td><strong>PHP</strong> — Handles server-side logic and database communication.</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"></td>
+<td><strong>MySQL</strong> — Stores and manages application data.</td>
+</tr>
+</table>
 
 
