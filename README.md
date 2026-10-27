@@ -7,13 +7,21 @@ The Library Management System is a web application designed to simplify book bro
 ✨ Features
 
 🔍 Book Search and Filtering — Search for books by title, author, or keywords and filter them by category.
+
 ⭐ Favorite Books — Add or remove books from your personal favorites list.
+
 📚 Book Borrowing — Submit borrowing requests and wait for administrator approval.
+
 ✅ Loan Confirmation — Confirm approved borrowing requests before accessing books.
+
 📖 Online Reading — Open and read borrowed books through the application.
+
 ⏳ Late Fee Management — Calculate late fees based on the borrowing period.
+
 💳 Payment Interface — Provides a card payment form for eligible outstanding fines.
+
 ❓ Help Center — Provides instructions and guidance on using the library system.
+
 📚 Borrowing Process
 Select a book and click "Request a Loan".
 Wait for administrator approval, which typically takes 30–60 minutes according to the application's guidelines.
