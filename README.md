@@ -73,6 +73,7 @@ Examples:
 </tr>
 </tbody>
 </table>
+
 Note: These examples assume that the fee is €5 for each day beyond the initial 7-day borrowing period.
 
 
