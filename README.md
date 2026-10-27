@@ -4,9 +4,7 @@
 
 The Library Management System is a web application designed to simplify book browsing, borrowing, reading, and library account management. It provides users with an organized platform to explore books, manage their favorite lists, request book loans, and track late fees.
 
-
 ✨ Features:
-
 
 🔍 Book Search and Filtering — Search for books by title, author, or keywords and filter them by category.
 
@@ -76,6 +74,7 @@ Examples:
 </tbody>
 </table>
 Note: These examples assume that the fee is €5 for each day beyond the initial 7-day borrowing period.
+
 
 💳 Card Payment Interface:
 
