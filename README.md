@@ -42,11 +42,39 @@ After 7 days: A fee of €5 per day of delay.
 
 Examples
 
-Borrowing Duration	Late Days	Fee
-7 days	0	€0
-12 days	5	€25
-14 days	7	€35
-16 days	9	€45
+⏳ Late Fee Policy
+
+<table>
+<thead>
+<tr>
+<th>Borrowing Duration</th>
+<th>Late Days</th>
+<th>Fee</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>7 days</td>
+<td>0</td>
+<td>€0</td>
+</tr>
+<tr>
+<td>12 days</td>
+<td>5</td>
+<td>€25</td>
+</tr>
+<tr>
+<td>14 days</td>
+<td>7</td>
+<td>€35</td>
+</tr>
+<tr>
+<td>16 days</td>
+<td>9</td>
+<td>€45</td>
+</tr>
+</tbody>
+</table>
 Note: These examples assume that the fee is €5 for each day beyond the initial 7-day borrowing period.
 
 💳 Card Payment Interface
