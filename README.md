@@ -23,10 +23,15 @@ The Library Management System is a web application designed to simplify book bro
 ❓ Help Center — Provides instructions and guidance on using the library system.
 
 📚 Borrowing Process
+
 Select a book and click "Request a Loan".
+
 Wait for administrator approval, which typically takes 30–60 minutes according to the application's guidelines.
+
 Once approved, click "Confirm Loan".
+
 Click "Read Book" to access the borrowed book.
+
 ⏳ Late Fee Policy
 The system applies the following late fee rules:
 
