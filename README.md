@@ -7,6 +7,7 @@ The Library Management System is a web application designed to simplify book bro
 
 ✨ Features:
 
+
 🔍 Book Search and Filtering — Search for books by title, author, or keywords and filter them by category.
 
 ⭐ Favorite Books — Add or remove books from your personal favorites list.
