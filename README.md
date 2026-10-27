@@ -1,6 +1,7 @@
 📚 Library Management System
 
 📖 About the Project
+
 The Library Management System is a web application designed to simplify book browsing, borrowing, reading, and library account management. It provides users with an organized platform to explore books, manage their favorite lists, request book loans, and track late fees.
 
 ✨ Features
