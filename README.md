@@ -1,10 +1,10 @@
 📚 Library Management System
 
-📖 About the Project
+📖 About the Project:
 
 The Library Management System is a web application designed to simplify book browsing, borrowing, reading, and library account management. It provides users with an organized platform to explore books, manage their favorite lists, request book loans, and track late fees.
 
-✨ Features
+✨ Features:
 
 🔍 Book Search and Filtering — Search for books by title, author, or keywords and filter them by category.
 
@@ -22,7 +22,7 @@ The Library Management System is a web application designed to simplify book bro
 
 ❓ Help Center — Provides instructions and guidance on using the library system.
 
-📚 Borrowing Process
+📚 Borrowing Process:
 
 Select a book and click "Request a Loan".
 
@@ -32,7 +32,7 @@ Once approved, click "Confirm Loan".
 
 Click "Read Book" to access the borrowed book.
 
-⏳ Late Fee Policy
+⏳ Late Fee Policy:
 
 The system applies the following late fee rules:
 
@@ -40,9 +40,7 @@ Days 1–7: Free borrowing period (€0).
 
 After 7 days: A fee of €5 per day of delay.
 
-Examples
-
-⏳ Late Fee Policy
+Examples:
 
 <table>
 <thead>
@@ -77,7 +75,7 @@ Examples
 </table>
 Note: These examples assume that the fee is €5 for each day beyond the initial 7-day borrowing period.
 
-💳 Card Payment Interface
+💳 Card Payment Interface:
 
 The application provides a payment form for users with active fines. The interface includes fields for the cardholder's name, card number, expiration date, and CVV.
 
@@ -85,10 +83,10 @@ The payment button is enabled only when the user has an eligible outstanding fin
 
 Security note: Actual card payments should be processed through a secure, PCI DSS-compliant payment provider. Card details and CVV must not be stored directly by the application.
 
-❓ Help Center
+❓ Help Center:
 The Help Center provides guidance on browsing books, managing favorites, borrowing books, reading borrowed books, and understanding late fees.
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 <table>
 <tr>
