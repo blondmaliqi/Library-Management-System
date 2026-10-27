@@ -37,7 +37,9 @@ Click "Read Book" to access the borrowed book.
 The system applies the following late fee rules:
 
 Days 1–7: Free borrowing period (€0).
+
 After 7 days: A fee of €5 per day of delay.
+
 Examples
 
 Borrowing Duration	Late Days	Fee
